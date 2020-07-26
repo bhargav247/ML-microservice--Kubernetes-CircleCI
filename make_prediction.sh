@@ -25,4 +25,5 @@ curl -d '{
    }
 }'\
      -H "Content-Type: application/json" \
-     -X POST http://192.168.99.100:$PORT/predict
+     -X POST http://localhost:$PORT/predict
+	
