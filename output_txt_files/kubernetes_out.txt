@@ -1,0 +1,7 @@
+$ ./run_kubernetes.sh
+Error from server (AlreadyExists): pods "microservice" already exists
+microservice                    1/1   Running   0     104s
+microservice-694dccd9cc-5rq6k   1/1   Running   0     13h
+Forwarding from 127.0.0.1:8000 -> 80
+Forwarding from [::1]:8000 -> 80
+Handling connection for 8000
